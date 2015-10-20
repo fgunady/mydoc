@@ -4,6 +4,7 @@ Changes:
 2015-10-19 Add items 1-5
 2015-10-19 Update from website
 2015-10-19 Another update to test git pull
+2015-10-19 Update from my laptop
 
 1- Launch "Git Bash"
 
