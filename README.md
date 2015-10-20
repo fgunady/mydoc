@@ -2,6 +2,7 @@
 
 Changes:
 2015-10-19 Add items 1-5
+2015-10-19 Update from website
 
 1- Launch "Git Bash"
 
